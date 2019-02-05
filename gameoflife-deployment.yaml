@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: gameoflife
-        image: nexus.hcldevopscoe.com:30543/gameoflife-web:${BUILD_NUMBER}
+        image: nexus.hcldevopscoe.com:30543/gameoflife-web:${BUILDNUMBER}
         ports:
         - containerPort: 8080
       imagePullSecrets:
