@@ -1,4 +1,4 @@
-#This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
+a#This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 this a sample line adding to test the commit message                      
 
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
@@ -26,6 +26,9 @@ Ideal for developers, software architects, and project managers, Jenkins: The De
  - Implement automated deployment and continuous delivery
 
 ## The author::
+rajaneeshk
+For SonarCloud
+Build
 
 John is an experienced consultant and trainer specialising in Enterprise Java, Web Development, and Open Source technologies, based in Sydney, Australia. Well known in the Java community for his many published articles, and as author of Java Power Tools, John helps organisations around the world to optimize their Java development processes and infrastructures and provides training and mentoring in open source technologies, SDLC tools, and agile development processes. John is CEO of [Wakaleo Consulting](http://www.wakaleo.com), a company that provides consulting, training and mentoring services in Enterprise Java and Agile Development. He is also part of the founding team of [Test Automation](http://www.testautomation.com.au/), a service that automates the manual regression tests conducted during the integration and acceptance testing stages of a web site release.
 
