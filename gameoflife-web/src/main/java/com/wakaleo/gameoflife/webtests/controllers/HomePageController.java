@@ -27,9 +27,9 @@ public class HomePageController {
     }
 
 	// Clicking the "home" text loads the main page
-    /*@RequestMapping("/home")
+    @RequestMapping("/home")
     public ModelAndView home() {
         log.info("----------------home started---------------");
         return new ModelAndView("home");
-    }*/
+    }
 }
