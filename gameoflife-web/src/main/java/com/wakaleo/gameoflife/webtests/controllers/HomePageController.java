@@ -23,6 +23,11 @@ public class HomePageController {
     public ModelAndView index() {
         
         log.info("----------------index started---------------");
+	    log.info("----------------index started---------------");
+	    log.info("----------------index started---------------");
+	    log.info("----------------index started---------------");
+	    log.info("----------------index started---------------");
+	    log.info("----------------index started---------------");
         return new ModelAndView("home");
     }
 
